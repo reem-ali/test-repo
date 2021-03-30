@@ -1,0 +1,8 @@
+a.out
+*.out
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+circle
+test
